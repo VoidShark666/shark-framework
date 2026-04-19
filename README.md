@@ -104,7 +104,7 @@ This software is provided for \*\*educational and research purposes only\*\*. Th
 
 \# Clone the repository
 
-git clone \[https://github.com/yourusername/shark-framework.git](https://github.com/yourusername/shark-framework.git)
+git clone \https://github.com/VoidShark666/shark-framework
 
 cd shark-framework
 
